@@ -9,8 +9,7 @@ namespace SingleResponsibility
             Person person = new Person();
             person.FirstName = "Joseph";
             person.LastName = "Smith";
-
-
+            
             person.Log();
 
             Console.ReadLine();
