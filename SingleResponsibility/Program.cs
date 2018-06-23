@@ -10,6 +10,7 @@ namespace SingleResponsibility
             person.FirstName = "Joseph";
             person.LastName = "Smith";
 
+
             person.Log();
 
             Console.ReadLine();
